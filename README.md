@@ -22,6 +22,8 @@ MIS515 - Database Design
 	- Define the function of a key.
 	- Build an E-R model from a requirements specification.
 		- ER and EER Summary
+
+
 -------
 
 - **Session 2**
@@ -36,6 +38,8 @@ MIS515 - Database Design
 		- RM Summary
 		- ERR
 		- Logical Data Model
+
+
 ------
 
 - **Session 3**
