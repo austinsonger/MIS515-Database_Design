@@ -21,7 +21,7 @@ MIS515 - Database Design
 	- Discuss diagrammatic technique for displaying specialization/generalization, aggregation, and composition in an E-R diagram using UML.
 	- Define the function of a key.
 	- Build an E-R model from a requirements specification.
-		- **ER and EER Summary**
+		- ER and EER Summary
 -------
 
 - **Session 2**
@@ -33,9 +33,9 @@ MIS515 - Database Design
 	- Represent supertype/subtypes as tables.
 	- Represent recursive relationships as tables.
 	- Implement referential integrity actions required by minimum cardinalities.
-		- **RM Summary**
-		- **ERR**
-		- **Logical Data Model**
+		- RM Summary
+		- ERR
+		- Logical Data Model
 ------
 
 - **Session 3**
