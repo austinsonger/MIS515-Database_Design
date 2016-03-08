@@ -40,6 +40,7 @@ MIS515 - Database Design
 		- Logical Data Model
 
 
+
 ------
 
 - **Session 3**
