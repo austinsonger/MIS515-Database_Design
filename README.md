@@ -166,3 +166,9 @@ Useful Links
 -  <a href="http://www.jetbrains.com/dbe/">jetbrains</a>
 -  <a href="https://www.heroku.com/postgres">heroku</a>
 -  <a href="http://www.sqlmaestro.com/products/anysql/maestro/">sqlmaestro</a>
+-  <a href="http://www.1keydata.com/sql/sql.html">1Keydata - SQL</a>
+-  <a href="http://www.mysqltutorial.org/">MySQLTutorial</a>
+
+
+
+
