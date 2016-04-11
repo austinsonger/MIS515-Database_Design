@@ -2,6 +2,8 @@
 MIS515 - Database Design
 ========================
 
+[![Join the chat at https://gitter.im/austinvernsonger/MIS515-Database_Design](https://badges.gitter.im/austinvernsonger/MIS515-Database_Design.svg)](https://gitter.im/austinvernsonger/MIS515-Database_Design?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 #### Masters of Information Systems
 #### Robert Morris University 
 
